@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, Я Максим!👋 QA Automation Engineer. Вы находитесь на моей странице в GITHUB, ниже можете ознакомится с моими проектами по автоматизации тестирования на Java.
 
 <!--
 **maxkonushkin/maxkonushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
