@@ -3,6 +3,10 @@
 Вы находитесь на моей странице в GITHUB.
 
 # На этой странице вы можете ознакомится с моими проектами по автоматизации тестирования на Java.
+
+### Связаться со мной можно тут:
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/mkonushkin)
+
 ### Мои инструменты:
 
 <div align="center">
